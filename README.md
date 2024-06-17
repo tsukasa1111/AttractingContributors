@@ -17,7 +17,8 @@ To complete the assignment, please do the following:
 
 # Favorite Football Player
 Goal - I want contributors to help me list some Football Player.
+Please add below.
 
-# List of Anime.
+# List of Football Player.
 1. Thiago Alcantara
 2. Joao Palhinha
