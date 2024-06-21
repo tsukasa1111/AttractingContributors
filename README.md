@@ -26,6 +26,7 @@ Coffee
 Oolong Tea  
 Orange juice
 Oolong Tea
+milk
 Coca Cola
 魔材
 Milk
