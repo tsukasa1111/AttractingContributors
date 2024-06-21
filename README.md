@@ -26,6 +26,7 @@ Coffee
 Oolong Tea  
 Orange juice
 Oolong Tea
+Milk Tea
 Darjeeling Tea
 milk
 Coca Cola
