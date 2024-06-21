@@ -24,4 +24,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 water
 Coffee
 Oolong Tea
+魔材
 Milk
