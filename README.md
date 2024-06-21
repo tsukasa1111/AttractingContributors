@@ -21,15 +21,15 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of drinks
-water
-Coffee
+water  
+Coffee  
 Oolong Tea  
-Orange juice
-Oolong Tea
-Milk Tea
-Darjeeling Tea
-milk
-Coca Cola
-魔材
-Milk
-breakfast tea
+Orange juice  
+Oolong Tea  
+Milk Tea  
+Darjeeling Tea  
+milk  
+Coca Cola  
+魔材  
+Milk  
+breakfast tea  
