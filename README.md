@@ -9,3 +9,6 @@ This repository is dedicated to sharing and discussing our favorite video games.
 - Final Fantasy VII
 - Minecraft
 - Titanfall2
+- Dragon Quest
+- SUPER MARIO BROS 3
+- undertale
