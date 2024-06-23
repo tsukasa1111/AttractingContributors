@@ -8,4 +8,5 @@ This repository is dedicated to sharing and discussing our favorite video games.
 - The Legend of Zelda: Breath of the Wild
 - Final Fantasy VII
 - Minecraft
+- SUPER MARIO BROS 3
 - undertale
