@@ -1,3 +1,6 @@
+# Please add your favorite, essential gadgets to my README!
+The gadget can be anything, for example, a keyboard, smartphone, laptop, earphones, headphones, or tablet.
+
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
@@ -20,4 +23,5 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of Gadgets
+1. MONOKEI Standard keyboard (sample)
