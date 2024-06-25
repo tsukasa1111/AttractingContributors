@@ -11,3 +11,4 @@ Please tell me about your high school!
 - Nanjing Jinling High School
 - Keio shiki HighSchool
 - Sacred Heart Convent. Galle, Sri Lanka
+- Doshisha International Highschool
