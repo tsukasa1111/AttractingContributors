@@ -5,3 +5,5 @@ Please tell me about your high school!
 
 # List of High school
 Keio shiki HighSchool
+Sacred Heart Convent. Galle, Sri Lanka
+
