@@ -4,4 +4,7 @@ Please tell me about your high school!
 - National Institute of Technology (KOSEN), Niihama College 
 
 # List of High school
-Nanjing Jinling High School
+- Nanjing Jinling High School
+- Keio shiki HighSchool
+- Sacred Heart Convent. Galle, Sri Lanka
+
