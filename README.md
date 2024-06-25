@@ -4,6 +4,7 @@ Please tell me about your high school!
 - National Institute of Technology (KOSEN), Niihama College 
 
 # List of High school
+- Seiryo High School
 - Meiwa high school
 - Niigata Prefectural Sanjo High School
 - National Institute of Technology (KOSEN), Nara College 
