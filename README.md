@@ -5,3 +5,7 @@ Please tell me about your high school!
 
 # List of High school
 - William Knibb Memorial High School (Jamaica)
+- Nanjing Jinling High School
+- Keio shiki HighSchool
+- Sacred Heart Convent. Galle, Sri Lanka
+
