@@ -4,6 +4,7 @@ Please tell me about your high school!
 - National Institute of Technology (KOSEN), Niihama College 
 
 # List of High school
+- Nicholson Catholic College
 - Seiryo High School
 - Meiwa high school
 - Niigata Prefectural Sanjo High School
