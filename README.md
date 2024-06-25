@@ -4,6 +4,7 @@ Please tell me about your high school!
 - National Institute of Technology (KOSEN), Niihama College 
 
 # List of High school
+- Nara Women's University Secondary School
 - National Institute of Technology (KOSEN), Kagawa College
 - Nicholson Catholic College
 - Seiryo High School
