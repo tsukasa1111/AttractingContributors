@@ -32,4 +32,6 @@ Please add below.
 10. Shinji Kagawa
 11. Keisuke Honda
 12. Genki Haraguchi
-13. Marco Reus
+13. Simon Adingra
+14. Marco Reus
+
