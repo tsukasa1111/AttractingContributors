@@ -22,3 +22,4 @@ RADWIMPS
 ME:I  
 カネコアヤノ  
 乃木坂４６
+Yoasobi
