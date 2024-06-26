@@ -32,6 +32,8 @@ milk
 Coca Cola  
 魔材  
 Milk  
+breakfast tea
+Choco Banana
 breakfast tea  
 Coke Zero
 Tea
