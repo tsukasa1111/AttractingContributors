@@ -38,4 +38,5 @@ breakfast tea
 Coke Zero
 Tea
 sekitoba
-Black tea
+Black tea  
+calpis
