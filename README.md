@@ -33,4 +33,5 @@ Coca Cola
 魔材  
 Milk  
 breakfast tea  
+sekitoba
 Black tea
