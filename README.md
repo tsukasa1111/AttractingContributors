@@ -19,3 +19,5 @@ To complete the assignment, please do the following:
 Billie Eilish  
 NewJeans  
 RADWIMPS  
+ME:I
+カネコアヤノ
