@@ -19,9 +19,12 @@ To complete the assignment, please do the following:
 Goal - I want contributors to help me list some favorite Baseball players.
 
 # List of Baseball players
-1.Sasaki Roki  
-2.Akiyama Shogo  
-3.Neo Akira  
-4.Fujiwara Kyota  
-5.Okugawa Yasunobu  
-6.Taneichi Atsuki  
+1.Sasaki Roki
+2.Akiyama Shogo
+3.Neo Akira
+4.Fujiwara Kyota
+5.Okugawa Yasunobu
+6.Otani Shohei
+7. ドカベン 山田太郎
+8. Taneichi Atsuki
+
