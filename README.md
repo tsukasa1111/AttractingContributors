@@ -21,6 +21,6 @@ NewJeans
 RADWIMPS  
 ME:I  
 カネコアヤノ  
-乃木坂４６
+乃木坂４６  
 Earth wind and fire  
 Yoasobi  
