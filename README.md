@@ -25,3 +25,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Gadgets
 1. MONOKEI Standard keyboard (sample)
+2. wireless earphones
