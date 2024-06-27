@@ -25,3 +25,4 @@ Goal - I want contributors to help me list some favorite Baseball players.
 4.Fujiwara Kyota
 5.Okugawa Yasunobu
 6.Otani Shohei
+7. ドカベン 山田太郎
