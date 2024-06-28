@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. MONOKEI Standard keyboard (sample)
 2. wireless earphones
 3. Portable Battery
+4. Full size key board (numeric keypad)
