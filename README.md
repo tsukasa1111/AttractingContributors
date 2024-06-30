@@ -26,3 +26,4 @@ Earth wind and fire
 Yoasobi  
 BUMP OF CHICKEN   
 Kafu  
+Gloria Tang Tsz-Kei
