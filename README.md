@@ -24,4 +24,5 @@ ME:I
 乃木坂４６  
 Earth wind and fire  
 Yoasobi  
-BUMP OF CHICKEN
+BUMP OF CHICKEN   
+Kafu  
