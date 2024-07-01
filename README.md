@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. Portable Battery
 4. Full size key board (numeric keypad)
 5. Smartwatch
+6. wired headset
