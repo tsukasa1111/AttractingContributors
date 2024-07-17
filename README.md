@@ -20,4 +20,10 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# Places I hope to visit someday.
+I like traveling. There are a lot of places I want to visit.
+1. Uyuni salt lake
+2. Santorini
+3. Mont-Saint-Michel
+4. Sagrada Família
+5. Sri Lanka
