@@ -21,6 +21,6 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Game
-Minecraft
-Apex Legends
-drag on dragoon 3
+- Minecraft
+- Apex Legends
+- drag on dragoon 3
