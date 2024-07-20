@@ -26,3 +26,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - drag on dragoon 3
 - FC24
 - Monster Hunter
+- fan-tan (card game)
