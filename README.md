@@ -29,3 +29,4 @@ I like traveling. There are a lot of places I want to visit.
 5. Sri Lanka
 6. Space
 7. Times Square
+10. 五島列島
