@@ -31,3 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Genshin Impact
 - fan-tan (card game)
 - LOL
+- please accept my pull request
