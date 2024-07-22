@@ -30,3 +30,4 @@ I like traveling. There are a lot of places I want to visit.
 6. Space
 7. Times Square
 8. OsakaOsho
+10. 五島列島
