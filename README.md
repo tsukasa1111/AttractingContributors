@@ -29,3 +29,5 @@ Kafu
 Gloria Tang Tsz-Kei
 go!go!vanillas
 Kaze Fujii
+Lady GaGa
+twice
