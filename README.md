@@ -26,5 +26,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - drag on dragoon 3
 - FC24
 - Monster Hunter
+- VALORANT
+- Cyberpunk 2077
 - Genshin Impact
 - fan-tan (card game)
