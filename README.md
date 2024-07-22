@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - FC24
 - Monster Hunter
 - Genshin Impact
+- fan-tan (card game)
