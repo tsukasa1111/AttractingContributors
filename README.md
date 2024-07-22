@@ -30,3 +30,6 @@ I like traveling. There are a lot of places I want to visit.
 6. Space
 7. Florida Walt Disney World Resort
 8. Times Square
+9. Japan
+10. OsakaOsho
+11. 五島列島
