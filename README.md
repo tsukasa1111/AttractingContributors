@@ -15,3 +15,4 @@ This repository is dedicated to sharing and discussing our favorite video games.
 - Dragon Quest
 - SUPER MARIO BROS 3
 - undertale
+- Dota 2
