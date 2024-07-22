@@ -2,6 +2,7 @@
 
 # List of place
 - mamemame saisai
+- McDonald Shiraniwadai Ten
 - broncobilly
 - Yoshinoya
 - susiro-
