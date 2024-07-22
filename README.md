@@ -7,3 +7,4 @@
 - Yoshinoya
 - susiro-
 -Joyfull
+- hamazusi
