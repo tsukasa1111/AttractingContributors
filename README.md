@@ -31,3 +31,4 @@ go!go!vanillas
 Kaze Fujii  
 Lady GaGa  
 twice  
+king gnu
