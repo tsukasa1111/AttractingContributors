@@ -16,3 +16,4 @@ Please tell me about your high school!
 - Keio shiki HighSchool
 - Sacred Heart Convent. Galle, Sri Lanka
 - Doshisha International Highschool
+- Usa Highschool
