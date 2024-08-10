@@ -32,6 +32,6 @@ Kaze Fujii
 Lady GaGa  
 twice  
 Saucy Dog  
-Eve 
+Eve  
 king gnu  
 Ed-sheeran  
