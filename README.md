@@ -32,3 +32,5 @@ Kaze Fujii
 Lady GaGa  
 twice  
 Eve
+king gnu
+Ed-sheeran
